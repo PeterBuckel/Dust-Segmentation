@@ -1,8 +1,6 @@
 # Dust-Segmentation
 Labeling and Segmentation of Dust
 
-This is the official implementation of the corresponding Paper (see Citation) and provides NN model and an overview.
-
 ##  GUI Dust Labeling
 
 ![test0](figures/gui.png)
