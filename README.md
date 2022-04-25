@@ -5,8 +5,8 @@ This is the official implementation of the corresponding Paper (see Citation) an
 
 ##  GUI Dust Labeling
 
-![test](figure\gui.png)
-![test](figure\input_image.png)
+![test](figures\gui.png)
+![test](figures\input_image.png)
 ![test](output\img_1 (1).png)
 
 ## License
