@@ -5,6 +5,9 @@ Labeling and Segmentation of Dust
 
 ![test0](figures/gui.png)
 
+Input image            |  Output mask
+:-------------------------:|:-------------------------:
+![input](figures/input_image.png)  |  ![output](output/mask.png)
 ![test1](figures/input_image.png)
 
 ![test2](output/mask.png)
