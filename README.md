@@ -7,7 +7,7 @@ Labeling and Segmentation of Dust
 
 ![test1](figures/input_image.png)
 
-![test2](output/img_1 (1).png)
+![test2](output/mask.png)
 
 
 ## License
