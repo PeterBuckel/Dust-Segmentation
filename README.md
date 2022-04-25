@@ -3,14 +3,11 @@ Labeling and Segmentation of Dust
 
 ##  GUI Dust Labeling
 
-![test0](figures/gui.png)
+![GUI](figures/gui.png)
 
 Input image            |  Output mask
 :-------------------------:|:-------------------------:
 ![input](figures/input_image.png)  |  ![output](output/mask.png)
-![test1](figures/input_image.png)
-
-![test2](output/mask.png)
 
 
 ## License
