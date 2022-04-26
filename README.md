@@ -26,8 +26,10 @@ Folder Structure:
 
 
 ##  GUI Dust Labeling
-Hier noch text
+The developed GUI for dust labeling is based on pyqt.
+Simply run `main.py` to start the application.
 
+The application loads automatically all images from the "input" folder and saves the corresponding mask to the "output" folder.
 
 
 ![GUI](figures/gui.png)
