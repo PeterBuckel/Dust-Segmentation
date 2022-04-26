@@ -6,10 +6,8 @@ VGG-Unet Model
 `model.py`
 [Trained Models](https://choosealicense.com/licenses/mit/)
 
-Dust Segmentation Dataset 
-
-[Trained Models](https://choosealicense.com/licenses/mit/)
-
+Dust Segmentation Dataset: [Trained Models](https://choosealicense.com/licenses/mit/)
+Folder Structure
     .
     ├── ...
     ├── test                    # Test files (alternatively `spec` or `tests`)
@@ -17,7 +15,6 @@ Dust Segmentation Dataset
     │   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
     │   └── unit                # Unit tests
     └── ...
-
 
 
 ##  GUI Dust Labeling
