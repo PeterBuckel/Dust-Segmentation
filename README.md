@@ -6,8 +6,9 @@ VGG-Unet Model
 `model.py`
 [Trained Models](https://choosealicense.com/licenses/mit/)
 
-Dust Segmentation Dataset: [Trained Models](https://choosealicense.com/licenses/mit/)
-Folder Structure
+Dust Segmentation Dataset: [Dataset](https://choosealicense.com/licenses/mit/)
+
+Folder Structure:
 
     dust_segmentation.zip
     ├── DCP-labeled             # Labeled by the DCP method with the GUI
