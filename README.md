@@ -2,10 +2,26 @@
 Labeling and Segmentation of Dust
 
 ##  Deep learning based semantic segmentation of dust
-Model
-Link to Dataset
-Results of NN
+VGG-Unet Model 
+`model.py`
+[Trained Models](https://choosealicense.com/licenses/mit/)
 
+Dust Segmentation Dataset 
+
+[Trained Models](https://choosealicense.com/licenses/mit/)
+
+$ tree
+.
+├── dir1
+│   ├── file11.ext
+│   └── file12.ext
+├── dir2
+│   ├── file21.ext
+│   ├── file22.ext
+│   └── file23.ext
+├── dir3
+├── file_in_root.ext
+└── README.md
 
 
 ##  GUI Dust Labeling
