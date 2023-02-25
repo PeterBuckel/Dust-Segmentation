@@ -6,7 +6,7 @@ VGG-Unet Model
 `model.py`
 [Trained Models](https://1drv.ms/u/s!AuEsiVyVPmXWdxLB1yQzbU9ucWU)
 
-Dust Segmentation Dataset: [Dataset](https://1drv.ms/u/s!AuEsiVyVPmXWduGNndFbARYJ0YI)
+In our work we also introduced the S-Dust dataset, which is available here: [www.agriscapes-dataset.com](https://agriscapes-dataset.com)
 
 Folder Structure:
 
