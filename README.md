@@ -30,7 +30,7 @@ The developed GUI for dust labeling is based on pyqt.
 Simply run `main.py` to start the application.
 
 The application loads images from the "input" folder and saves the corresponding mask to the "output" folder.
-It should be noted that to some extent are further 
+
 Input image            |  Output mask
 :-------------------------:|:-------------------------:
 ![input](figures/input_image.png)  |  ![output](output/mask.png)
