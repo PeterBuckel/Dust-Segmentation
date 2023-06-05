@@ -29,14 +29,12 @@ Folder Structure:
 The developed GUI for dust labeling is based on pyqt.
 Simply run `main.py` to start the application.
 
-The application loads automatically all images from the "input" folder and saves the corresponding mask to the "output" folder.
-
-
-![GUI](figures/gui.png)
-
+The application loads images from the "input" folder and saves the corresponding mask to the "output" folder.
+It should be noted that to some extent are further 
 Input image            |  Output mask
 :-------------------------:|:-------------------------:
 ![input](figures/input_image.png)  |  ![output](output/mask.png)
+
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
