@@ -17,7 +17,7 @@ The application loads images from the "input" folder and saves the corresponding
 
 
 ## Citation
-
+```
 @article{buckel2023semantic,
   title={Semantic Segmentation and Inpainting of Dust with the S-Dust Dataset},
   author={Buckel, Peter and Oksanen, Timo and Dietmueller, Thomas},
@@ -28,3 +28,4 @@ The application loads images from the "input" folder and saves the corresponding
   year={2023},
   publisher={Elsevier}
 }
+```
